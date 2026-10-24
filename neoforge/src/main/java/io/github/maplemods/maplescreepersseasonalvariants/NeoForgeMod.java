@@ -1,7 +1,7 @@
-package io.github.maplemods.maplescreepercollection;
+package io.github.maplemods.maplescreepersseasonalvariants;
 
 
-import io.github.maplemods.maplescreepercollection.data.Constants;
+import io.github.maplemods.maplescreepersseasonalvariants.data.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 

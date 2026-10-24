@@ -1,6 +1,6 @@
-package io.github.maplemods.maplescreepercollection;
+package io.github.maplemods.maplescreepersseasonalvariants;
 
-import io.github.maplemods.maplescreepercollection.data.Constants;
+import io.github.maplemods.maplescreepersseasonalvariants.data.Constants;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 

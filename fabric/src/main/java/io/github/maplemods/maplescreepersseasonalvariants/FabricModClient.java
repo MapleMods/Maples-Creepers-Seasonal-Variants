@@ -1,4 +1,4 @@
-package io.github.maplemods.maplescreepercollection;
+package io.github.maplemods.maplescreepersseasonalvariants;
 
 import net.fabricmc.api.ClientModInitializer;
 
