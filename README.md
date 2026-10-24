@@ -1,9 +1,9 @@
-# Maple's Creeper Collection
+# Maple's Creepers | Seasonal Variants
 
-Minecraft 1.21.11 | Version 1.1
+Minecraft 1.21.11 | Version 2.0
 
 Download the mod here! :)
 
-CurseForge: https://legacy.curseforge.com/minecraft/mc-mods/maples-creeper-collection
+CurseForge: https://curseforge.com/minecraft/mc-mods/maples-creepers-seasonal-variants
 
-Modrinth: https://modrinth.com/mod/maples-creeper-collection
+Modrinth: https://modrinth.com/mod/maples-creepers-seasonal-variants
